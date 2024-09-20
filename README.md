@@ -15,3 +15,17 @@ For model-based controllers, see `model_based_pd.py` and `model_based_mpc.py`.
 ## Dataset
 See `LeTac-MPC/dataset`.
 
+## BibTex
+
+If you find this codebase useful, consider citing:
+
+```bibtex
+@ARTICLE{xuletac2024,
+  author={Xu, Zhengtong and She, Yu},
+  journal={IEEE Transactions on Robotics}, 
+  title={{LeTac-MPC}: Learning Model Predictive Control for Tactile-Reactive Grasping}, 
+  year={2024},
+  volume={},
+  number={},
+  doi={10.1109/TRO.2024.3463470}}
+```
